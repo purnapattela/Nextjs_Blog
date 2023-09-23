@@ -1,9 +1,8 @@
+import Steps from './components/steps/Steps'
 export default function App(){
     return(
-        <>
-            <h1>Clean Working Tree 🎄</h1>
-            <p>Lets start to code</p>
-            <pre>PurnaPattela -Lets bring a change that no-one dreams</pre>
-        </>
+        <div className="min-h-screen min-w-screen bg-black text-white">
+            <Steps />
+        </div>
     )
 }

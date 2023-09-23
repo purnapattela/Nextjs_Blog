@@ -7,7 +7,8 @@
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight",
-                "EQuimper.react-native-react-redux"
+                "EQuimper.react-native-react-redux",
+				"dsznajder.es7-react-js-snippets"
 			],
 			"settings": {
 				"editor.fontSize": 26,
