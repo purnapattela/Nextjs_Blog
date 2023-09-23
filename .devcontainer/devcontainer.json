@@ -10,7 +10,7 @@
                 "EQuimper.react-native-react-redux"
 			],
 			"settings": {
-				"editor.fontSize": 32,
+				"editor.fontSize": 26,
 				"terminal.integrated.fontSize": 24,
 				"editor.wordWrap": "on"
 			}
