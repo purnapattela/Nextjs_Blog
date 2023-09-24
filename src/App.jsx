@@ -1,8 +1,9 @@
-import Steps from './components/steps/Steps'
+import ProfileCard from './components/profileCard/ProfileCard'
+
 export default function App(){
     return(
-        <div className="min-h-screen min-w-screen bg-black text-white">
-            <Steps />
+        <div>
+            <ProfileCard />
         </div>
     )
 }
