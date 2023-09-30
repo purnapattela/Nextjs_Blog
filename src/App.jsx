@@ -5,6 +5,7 @@
 // import FlashCard from './components/flashCard/FlashCard'
 // import DateChallange from "./components/dateChallange/DateChallange"
 // import FAQ from './components/FAQ/App'
+import EatAndSplit from './components/eatAndSplit/App'
 export default function App() {
   return (
     <div
@@ -26,6 +27,7 @@ export default function App() {
       {/* <FlashCard /> */}
       {/* <DateChallange /> */}
       {/* <FAQ /> */}
+      {/* <EatAndSplit /> */}
       <h1>
         Open to See the code <pre>Shift + .</pre>
       </h1>
